@@ -11,7 +11,7 @@
 
 <h2>🤔Funfacts about me</h2>
 
-<h3>👀In June 2023 I started programming, but I took it seriously in December 2023!</h3>
+<h3>👀I have a ADHD</h3>
 
 <!--
 **Cinkociento/Cinkociento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
