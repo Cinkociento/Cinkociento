@@ -3,9 +3,6 @@
 <h3>🛠️ Currently working in python</h3>
 <h3>💬 Contact me on discord, my discord is black_yellow007</h3>
 
-<h2>I can program in</h2>
-<h3>👨‍💻I can programing in python</h3>
-
 <h2>What I'm learning</h2>
 <h3>💻I'm currently learning the basics of python</h3>
 
