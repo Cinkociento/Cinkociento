@@ -1,10 +1,10 @@
 <h1>Hi There👋 I’m Marcin🧐</h1>
 
-<h3>🛠️ Currently working in python</h3>
-<h3>💬 Contact me on discord, my discord is black_yellow007</h3>
+<h3>🛠️ Currently working in HTML and CSS</h3>
+<h3>💬 Contact me on discord, my nickname in discord is _.cinus._</h3>
 
 <h2>What I'm learning</h2>
-<h3>💻I'm currently learning the basics of python</h3>
+<h3>💻I'm currently learning the basics frontend web developer</h3>
 
 <h2>🤔Funfacts about me</h2>
 
