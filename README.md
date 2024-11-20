@@ -4,7 +4,7 @@
 <h3>💬 Contact me on discord, my nickname in discord is _.cinus._</h3>
 
 <h2>What I'm learning</h2>
-<h3>💻I'm currently learning the basics frontend web developer</h3>
+<h3>💻I'm currently learning the basics frontend web development</h3>
 
 <h2>🤔Funfacts about me</h2>
 
